@@ -1,0 +1,26 @@
+# Blender MTL File: 'Gintoki.blend'
+# Material Count: 2
+
+newmtl Material__29
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump bokuto_normal.jpg
+map_Kd bokuto_diffuse.jpg
+
+newmtl texture
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump gintoki_normal.jpg
+map_Kd gintoki_diffuse.jpg
